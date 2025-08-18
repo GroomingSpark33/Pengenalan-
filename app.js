@@ -6,7 +6,7 @@ const tracks = [
   { title:'123456', artist:'Budi Doremi', cover:'covers/123456.jpg', src:'music/123456.mp3' },
   { title:'Tahta Hatiku #Pendampingmu', artist:'Fajar Noor', cover:'covers/tahta-hatiku.jpg', src:'music/tahta-hatiku.mp3' },
   { title:'Pendampingmu #TahtaHatiku', artist:'Shabrina Leanor', cover:'covers/pendampingmu.jpg', src:'music/pendampingmu.mp3' },
-  { title:'Lantas', artist:'Juicy Luicy', cover:'', src:'' },
+  { title:'Lantas', artist:'Juicy Luicy', cover:'covers/lantas.jpg', src:'music/lantas.mp3' },
 ];
 const listEl = document.getElementById('list');
 const floatToggle = document.getElementById('floatToggle');
