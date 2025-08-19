@@ -7,6 +7,8 @@ const tracks = [
   { title:'Tahta Hatiku #Pendampingmu', artist:'Fajar Noor', cover:'covers/tahta-hatiku.jpg', src:'music/tahta-hatiku.mp3' },
   { title:'Pendampingmu #TahtaHatiku', artist:'Shabrina Leanor', cover:'covers/pendampingmu.jpg', src:'music/pendampingmu.mp3' },
   { title:'Lantas', artist:'Juicy Luicy', cover:'covers/lantas.jpg', src:'music/lantas.mp3' },
+  { title: 'Jiwa Yang Bersedih', artist:'Ghea indrawari', cover:'covers/jiwa-yang-bersedih.jpg', src:'music/jiwa-yang-bersedih.mp3'},
+  { title:'Akhir tak bahagia', artist:'Misellia', cover:'covers/akhir-tak-bahagia.jpg', src:'music/akhir-tak-bahagia.mp3'}
 ];
 const listEl = document.getElementById('list');
 const floatToggle = document.getElementById('floatToggle');
